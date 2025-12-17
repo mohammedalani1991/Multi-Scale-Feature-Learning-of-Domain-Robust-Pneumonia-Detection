@@ -33,9 +33,7 @@ AGMSCRA-Net/
 ├── README.md
 ├── agmscra-net-pneumonia.ipynb    # Complete Kaggle notebook
 ├── requirements.txt                # Python dependencies
-└── splits/                         # Dataset split manifests
-    ├── pneumonia_splits.csv
-    └── covid_splits.csv
+
 ```
 
 ## 📦 Datasets
