@@ -12,7 +12,7 @@ Official implementation of "Anatomically Guided Multi-Scale Cross-Regional Atten
 
 ### Run on Kaggle
 
-[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/your-username/agmscra-net-pneumonia-detection)
+[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://github.com/mohammedalani1991/Multi-Scale-Feature-Learning-of-Domain-Robust-Pneumonia-Detection-)
 
 Click the badge above to run the complete notebook on Kaggle with free GPU.
 
